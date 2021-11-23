@@ -1,3 +1,3 @@
 ### Assets
 
-- [MagicList](/magiclist)
+- [MagicList](./magiclist)
