@@ -1,1 +1,3 @@
-hello world
+### Assets
+
+- [MagicList](/magiclist)
