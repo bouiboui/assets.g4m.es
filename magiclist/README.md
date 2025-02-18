@@ -11,6 +11,9 @@ How to Start
 - Read [the tutorial](./TUTORIAL) to learn how to use it with a step-by-step example
 - Unpack `Example.unitypackage` to see what the finished tutorial looks like
 
+> **New! Interactivity Guide:**  
+> If you plan to use MagicList for interactive list items (for instance, to select, buy, or sell items), be sure to check out [INTERACT.md](./INTERACT.md) for a complete guide on how to implement item interactions.
+
 FAQ
 ---
 
